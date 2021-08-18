@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header {
-    background-image: url(/hussain-ali-CguIy_d0dEQ-unsplash.jpg);
+    background-image: url("hussain-ali-CguIy_d0dEQ-unsplash.jpg");
     height: 100vh;
     background-size: 100%;
     background-repeat: no-repeat;
